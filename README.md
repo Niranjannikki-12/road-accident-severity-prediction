@@ -32,22 +32,21 @@ road-accident-severity-prediction/
 ## 📅 Weekly Deliverables
 
 ### Week 1: Project Planning and Dataset Scoping
-**File:** [`Week1_Project_Proposal_Road_Accident_Severity.docx`](./Week1_Project_Proposal_Road_Accident_Severity.docx)
+
 
 This report defines the project objectives, scope, and anticipated challenges for the Road Accident Severity Prediction project. It identifies the US Accidents (Kaggle) dataset as the primary data source and explains the rationale for its selection, including its scale, feature richness, and relevance to real-world road safety problems. The document outlines a high-level analytical workflow — from data acquisition through cleaning, exploratory analysis, modeling, and reporting — along with the Python tools and libraries planned for each stage.
 
 ### Week 2: Data Cleaning and Transformation Documentation
-**File:** [`Week2_Data_Cleaning_Transformation.docx`](./Week2_Data_Cleaning_Transformation.docx)
+
 
 This report documents a detailed data cleaning and transformation strategy for the US Accidents dataset. It covers techniques for handling missing values, duplicates, and outliers using pandas and numpy, along with a plan for feature scaling, normalization, and feature engineering. The document includes worked examples of cleaning procedures and lays the groundwork for a data pipeline that produces analysis-ready data for the subsequent exploratory and modeling phases.
 
 ### Week 3: Exploratory Data Analysis and Visualization Strategy
-**File:** [`Week3_EDA_Visualization_Strategy.docx`](./Week3_EDA_Visualization_Strategy.docx)
+
 
 This report outlines an exploratory data analysis (EDA) and visualization strategy for uncovering patterns and anomalies in the accident data. It details the types of visualizations planned — including histograms, box plots, and scatter plots using matplotlib and seaborn — and explains how each supports specific analytical objectives, such as identifying relationships between weather conditions, road features, and accident severity. The document also discusses handling categorical sparsity in rare weather types and provides a plan for documenting and interpreting EDA findings.
 
 ### Week 4: Machine Learning Model Selection and Evaluation Plan
-**File:** [`Week4_ML_Model_Selection_and_Evaluation_Plan.docx`](./Week4_ML_Model_Selection_and_Evaluation_Plan.docx)
 
 This report presents a complete Machine Learning Model Selection and Evaluation Plan for the Road Accident Severity Prediction project, using the US Accidents (Kaggle) dataset, and builds directly on the project planning, data cleaning, and exploratory analysis work completed in Weeks 1–3.
 
